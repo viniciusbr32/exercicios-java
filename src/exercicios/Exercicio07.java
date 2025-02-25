@@ -14,7 +14,7 @@ public class Exercicio07 {
         while (true) {
             if (!scanner.hasNextBoolean()) {
                 System.out.println("Só aceitamos valores true ou false");
-                scanner.next();
+                scanner.nextLine();
                 continue;
             }
             valor1 = scanner.nextBoolean();
@@ -25,7 +25,7 @@ public class Exercicio07 {
         while (true) {
             if (!scanner.hasNextBoolean()) {
                 System.out.println("Só aceitamos valores true ou false");
-                scanner.next();
+                scanner.nextLine();
                 continue;
             }
             valor2 = scanner.nextBoolean();

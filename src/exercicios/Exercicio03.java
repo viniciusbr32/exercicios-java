@@ -23,7 +23,7 @@ public class Exercicio03 {
             System.out.println("Digite o primeiro numero inteiro exemplo: 10");
             if (!scanner.hasNextInt()) {
                 System.out.println("Digite um numero inteiro valido");
-                scanner.next();
+                scanner.nextLine();
                 continue;
             }
             numeroA = scanner.nextInt();
@@ -35,7 +35,7 @@ public class Exercicio03 {
             System.out.println("Digite o segundo numero inteiro exemplo: 10");
             if (!scanner.hasNextInt()) {
                 System.out.println("Digite um numero inteiro valido");
-                scanner.next();
+                scanner.nextLine();
                 continue;
             }
             numeroB = scanner.nextInt();

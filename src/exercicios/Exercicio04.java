@@ -12,7 +12,7 @@ public class Exercicio04 {
         while (true) {
             if (!scanner.hasNextInt()) {
                 System.out.println("Numero invalido, Digite o numero corretamente exemplo: 10");
-                scanner.next();
+                scanner.nextLine();
                 continue;
             }
             numeroInteiro = scanner.nextInt();
