@@ -29,11 +29,11 @@ public enum TipoPagamento {
         TipoPagamentoString = tipoPagamentoString;
     }
 
-    public  double calcularValor(double valor) {
+    public double calcularValor(double valor) {
         return valor;
     }
 
-    public  double calcularValor(double valor, int qtdParcelas) {
+    public double calcularValor(double valor, int qtdParcelas) {
         return valor;
     }
 
