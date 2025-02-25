@@ -4,6 +4,6 @@ Este repositório foi criado para eu praticar e aprimorar minha lógica de progr
 
 ## Link da lista de exercícios
 
-[Insira o link aqui](https://www.dio.me/articles/lista-de-exercicios-para-treinar-logica-de-programacao)
+[Link Exercicios](https://www.dio.me/articles/lista-de-exercicios-para-treinar-logica-de-programacao)
 
 
